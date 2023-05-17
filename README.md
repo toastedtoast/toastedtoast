@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Marco.
+I am a software engineer focusing on frontend technologies and serverless infrastructure.  
+
+- 👨‍💻 Working for the UXSD Team at [merckgroup](https://github.com/merckgroup).
+- ⚗️ Always curious and I love to use technology to solve problems.
+- 📝 Currently I want to improve my technical writing skills.
+
+Get in touch: [toastedtoast.de](https://toastedtoast.de)
+
 <!--
 **toastedtoast/toastedtoast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
